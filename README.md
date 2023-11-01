@@ -1,6 +1,4 @@
-👋 Hello World! I'm Ninuka Nethnidu, an enthusiastic IT student passionate about exploring the vast world of technology. Currently pursuing my
-
-Bachelor of Information Technology at University of Moratuwa, I am deeply interested in software development, cybersecurity, and data science. I enjoy solving complex problems and writing elegant code that makes a difference.
+👋 Hello World! I'm Ninuka Nethnidu, an enthusiastic IT student passionate about exploring the vast world of technology. Currently pursuing my Bachelor of Information Technology at University of Moratuwa, I am deeply interested in software development, cybersecurity, and data science. I enjoy solving complex problems and writing elegant code that makes a difference.
 
 🚀 Skills: Java, Python, C++, HTML/CSS, JavaScript, SQL, Git, Linux, Web Development, Cybersecurity, Data Structures & Algorithms.
 
