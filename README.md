@@ -1,18 +1,100 @@
-👋 Hello World! I'm Ninuka Nethnidu, an enthusiastic IT student passionate about exploring the vast world of technology. Currently pursuing my Bachelor of Information Technology at University of Moratuwa, I am deeply interested in software development, cybersecurity, and data science. I enjoy solving complex problems and writing elegant code that makes a difference.
+# 👋 Hi, I'm Ninuka Nethnidu
 
-🚀 Skills: Java, Python, C++, HTML/CSS, JavaScript, SQL, Git, Linux, Web Development, Cybersecurity, Data Structures & Algorithms.
+🎓 Final Year **Bachelor of Information Technology** Undergraduate – University of Moratuwa
+💼 **IT Infrastructure Executive**
+📍 Sri Lanka
 
-💡 Interests: I thrive on challenges and enjoy diving into the latest tech trends. From building web applications to exploring ethical hacking, I'm always eager to learn and adapt to new technologies. Cybersecurity and open-source projects are areas I'm particularly keen on contributing to.
+---
 
-🌟 Projects: I've worked on projects ranging from creating responsive websites to developing secure applications. Check out my repositories to see some of my coding adventures. Feel free to provide feedback and collaborate!
+## 🚀 About Me
 
-📚 Education: Currently pursuing a 2 year 2 semester in [ Bachelor of Information Technology at University of Moratuwa . I'm constantly enhancing my skills through coursework and personal projects, always striving for excellence in both academia and practical application.
+I’m an IT professional currently working as an **IT Infrastructure Executive**, responsible for maintaining, securing, and optimizing enterprise IT environments.
 
-🔗 Connect with Me:
+My role focuses on:
 
-LinkedIn: https://www.linkedin.com/in/ninuka-nethnidu/
+* 🖥️ Server & system administration
+* 🌐 Network management & troubleshooting
+* 🔐 IT security implementation
+* ⚙️ Infrastructure monitoring & maintenance
+* 🛠️ Technical support & system reliability
 
-Email: Nethniduparanawithana@gmail.com
+With a strong academic foundation and hands-on industry experience, I enjoy ensuring systems run efficiently, securely, and without downtime. I am passionate about infrastructure, automation, and cloud technologies.
 
-Let's code something amazing together! Feel free to reach out for collaborations, discussions, or just to geek out about tech. Happy coding! 😊
+---
 
+## 🛠️ Technical Skills
+
+### 💻 Programming & Development
+
+* Java
+* Python
+* JavaScript
+* C++
+* HTML / CSS
+* SQL
+
+### 🖥️ Infrastructure & Systems
+
+* Windows & Linux Server Administration
+* Active Directory & User Management
+* Network Configuration & Troubleshooting
+* Firewall & Basic Security Configuration
+* Backup & Disaster Recovery
+* Virtualization (VMs)
+* Hardware & System Maintenance
+
+### ⚙️ Tools & Technologies
+
+* Git & GitHub
+* SSH
+* Bash Scripting
+* Basic PowerShell
+* Docker (Learning)
+* Ansible (Learning)
+
+---
+
+## 📂 What I’m Currently Working On
+
+* 🔄 Automating infrastructure tasks
+* ☁️ Learning Cloud Technologies (Azure & AWS fundamentals)
+* 🔐 Strengthening cybersecurity practices
+* 🖥️ Improving system monitoring & performance optimization
+
+---
+
+## 🌟 Projects
+
+* 🌐 Full-stack web applications (MERN stack)
+* 💳 Payment integration systems
+* 🖥️ Linux server configuration tasks
+* 📊 Machine Learning academic projects
+* 🔐 Secure infrastructure setups
+
+Check out my repositories to explore my work — feedback and collaboration are always welcome!
+
+---
+
+## 🎯 Career Objective
+
+To grow into a **Cloud Engineer / DevOps Engineer**, building scalable, secure, and automated infrastructure solutions.
+
+---
+
+## 📚 Education
+
+🎓 Bachelor of Information Technology (Final Year)
+University of Moratuwa
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/ninuka-nethnidu/](https://www.linkedin.com/in/ninuka-nethnidu/)
+* 📧 Email: [Nethniduparanawithana@gmail.com](mailto:Nethniduparanawithana@gmail.com)
+
+---
+
+⭐ *Building reliable systems. Securing infrastructure. Learning every day.*
+
+Let’s connect and build impactful technology together 🚀
